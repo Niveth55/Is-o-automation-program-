@@ -1,0 +1,4 @@
+line_no,fluid,fluid_service,design_pressure_bar,design_temp_c,operating_pressure_bar,operating_temp_c,pipe_spec,insulation,insulation_type,heat_tracing,from_equip,to_equip
+6"-PW-1001-A1A,Process Water,C,10.0,80.0,7.5,60.0,A1A,No,,No,T-101 (Storage Tank),P-101A (Feed Pump)
+4"-SH-2001-B3B,High Pressure Steam,B,40.0,400.0,35.0,380.0,B3B,Yes,Mineral Wool 75mm,No,V-201 (Steam Drum),HX-301 (Heat Exchanger)
+1"-CD-3001-C1C,Sodium Hypochlorite,B,6.0,50.0,4.0,35.0,C1C,No,,No,D-401 (Dosing Tank),M-401 (Injection Point)
